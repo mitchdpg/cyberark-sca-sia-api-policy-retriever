@@ -1,6 +1,6 @@
-# CyberArk SCA & SIA Policy Retriever (Python)
+# CyberArk SCA & SIA Policy API Retriever (Python)
 
-Built a script to authenticate with CyberArk's platform API using OAuth 2.0 client credentials, generate a bearer token, and retrieve all Secure Cloud Access (SCA) and Secure Infrastructure Access (SIA) policies. The client secret is prompted at runtime via `getpass` — no plaintext credentials in code.
+Created a script to authenticate with CyberArk's platform API using OAuth 2.0 client credentials, generate a bearer token, and retrieve all Secure Cloud Access (SCA) and Secure Infrastructure Access (SIA) policies. The client secret is prompted at runtime via `getpass` — no plaintext credentials in code.
 
 ## Overview
 
